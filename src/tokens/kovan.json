@@ -172,5 +172,13 @@
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+  },
+  {
+    "name": "UBE",
+    "address": "0xaA652e6aa1BC67A88e0e37a94fE856Be2e72e8cA",
+    "symbol": "UBE",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://avatars.githubusercontent.com/u/73151090?s=200&v=4"
   }
 ]
